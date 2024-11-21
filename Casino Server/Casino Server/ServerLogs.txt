@@ -1,0 +1,5 @@
+Received packet: SourcePort=27000, DestinationPort=27000, Timestamp=2024-03-31 2:09:34 PM, PacketType=0, 
+PacketLength=89, UniquePacketID=0, ProtocolVersion=1, CompressionFlag=0
+
+DataPayload: Hello, Casino Server!
+
